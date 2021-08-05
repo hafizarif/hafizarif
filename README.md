@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hafizarif
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science & Analytics
 - 🌱 I’m currently learning coding, AI, ML
 - 💞️ I’m looking to collaborate on opportunites for beginner
 - 📫 How to reach me hafizarif.magisia@gmail.com
